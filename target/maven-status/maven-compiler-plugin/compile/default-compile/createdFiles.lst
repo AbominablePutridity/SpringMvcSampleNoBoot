@@ -1,1 +1,3 @@
+com/myPackage/entity/Group.class
 com/myPackage/controller/GroupController.class
+com/myPackage/repository/GroupRepository.class

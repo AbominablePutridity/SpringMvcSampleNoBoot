@@ -1,1 +1,3 @@
 /home/maxim/NetBeansProjects/DiplomProject/src/main/java/com/myPackage/controller/GroupController.java
+/home/maxim/NetBeansProjects/DiplomProject/src/main/java/com/myPackage/entity/Group.java
+/home/maxim/NetBeansProjects/DiplomProject/src/main/java/com/myPackage/repository/GroupRepository.java
